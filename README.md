@@ -15,7 +15,7 @@ Deliverable 2: Summary Statistics on Suspension Coils
 Deliverable 3: T-Test on Suspension Coils
 
     Lot 1 is NOT significantly different from the population mean (with a p-value of 1)
-    ![Lot 1 Image]()
+    ![Lot 1 Image](https://raw.githubusercontent.com/jhonpire/MechaCar_Statistical_Analysis/main/Images/Lot%201.png)
 
     Lot 2 is NOT significantly different from the population mean (with a p-value of 0.61)
     ![Lot 2 image]()
